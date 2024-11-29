@@ -1,5 +1,6 @@
-# Preliminary Design of Hybrid Simulation Framework for Workload Analysis in Automotive Edge Computing
-가상환경 기반 네트워크 트래픽/컴퓨팅의 시공간 분포에 대한 트레이닝 데이터 개발
+# 가상환경 기반 네트워크 트래픽/컴퓨팅의 시공간 분포에 대한 트레이닝 데이터 개발
+Preliminary Design of Hybrid Simulation Framework for Workload Analysis in Automotive Edge Computing
+
 
 # Abstract
 Many vehicular tasks shall be completed in a timely manner as they move. 
